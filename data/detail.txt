@@ -1,0 +1,7 @@
+Coef: Showing the effect of a one-unit change in the predictor variable on the dependent variable
+std err: The std err column shows the standard error of each coefficient, which measures the variability of the coefficient estimate due to sampling error. 
+Larger absolute 𝑡-values indicate stronger evidence against the null hypothesis (that the coefficient is 0).
+The P>|t| column shows the p-value for the null hypothesis which states that the coefficient is equal to 0. Smaller p-values (< 0.05) 
+    indicate statistical significance, meaning the predictor has a meaningful effect on the dependent variable.
+The [0.025, 0.975] columns show the 95% confidence intervals for the coefficients. 
+These intervals provide a range of plausible values for the true population coefficients.
